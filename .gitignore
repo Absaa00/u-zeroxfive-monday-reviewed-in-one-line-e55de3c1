@@ -1,0 +1,15 @@
+# Monday one-liner entry — ignore local clutter, keep the repo to the entry itself
+__pycache__/
+*.py[cod]
+*.pyo
+.monday-scratch/
+notes-draft-*.txt
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.venv/
+venv-monday/
+dist-monday/
+build-monday/
+*.egg-info/

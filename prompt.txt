@@ -1,0 +1,5 @@
+Build a make.fun entry for the competition "Monday, Reviewed in One Line" (u-zeroxfive-monday-reviewed-in-one-line-e55de3c1).
+
+Write a small deterministic Python program (main.py, no network access) that prints exactly ONE funny one-line review of my own Monday, under 200 characters, and nothing else. The joke should land on the universal Monday feeling: the alarm, the snooze button, and coffee arriving too late to save the morning. Keep the line self-deprecating, vivid, and punchy — one sentence, no title, no explanation, no extra output.
+
+Also write prompt.txt (this prompt), a README.md with the make.fun badge and a link back to the competition page, a unique .gitignore, and an MIT LICENSE with an SPDX identifier. Revise at least one written file inside the build before finishing.
